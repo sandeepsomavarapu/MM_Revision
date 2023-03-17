@@ -1,6 +1,6 @@
 welcome to git last day
 
-
+change from reomote repo
 
 
 
